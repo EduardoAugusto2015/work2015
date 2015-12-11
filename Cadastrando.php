@@ -4,8 +4,8 @@
 //DADOS DE CONEXAO COM O BANCOS
 $host= 'localhost';
 $bd= 'dbew';
-$userbd = 'dbew'; 
-$senhabd= 'dbew';
+$userbd = 'root'; 
+$senhabd= '';
 // RECEBENDO OS DADOS PREENCHIDOS DO FORMULÁRIO !
 $nome	   = $_POST ["nome"];	
 $sobrenome = $_POST ["sobrenome"];	

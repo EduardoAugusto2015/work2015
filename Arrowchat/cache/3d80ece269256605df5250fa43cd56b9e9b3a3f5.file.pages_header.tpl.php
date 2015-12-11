@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty 3.1.4, created on 2015-10-21 20:37:01
-         compiled from "C:\xampp\htdocs\WebEasyWork\arrowchat\admin\layout\pages_header.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:83485628138d77d800-46237856%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /* Smarty version Smarty 3.1.4, created on 2015-12-11 02:06:02
+         compiled from "C:\xampp\htdocs\WebEasyWork\Arrowchat\admin\layout\pages_header.tpl" */ ?>
+<?php /*%%SmartyHeaderCode:28658566a4baa355644-06495211%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
-    '0b2194040f4deee20087c0e79155da7105b2aa83' => 
+    '3d80ece269256605df5250fa43cd56b9e9b3a3f5' => 
     array (
-      0 => 'C:\\xampp\\htdocs\\WebEasyWork\\arrowchat\\admin\\layout\\pages_header.tpl',
+      0 => 'C:\\xampp\\htdocs\\WebEasyWork\\Arrowchat\\admin\\layout\\pages_header.tpl',
       1 => 1416712270,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '83485628138d77d800-46237856',
+  'nocache_hash' => '28658566a4baa355644-06495211',
   'function' => 
   array (
   ),
@@ -33,9 +33,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty 3.1.4',
-  'unifunc' => 'content_5628138dafddb',
+  'unifunc' => 'content_566a4baa6a72c',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5628138dafddb')) {function content_5628138dafddb($_smarty_tpl) {?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<?php if ($_valid && !is_callable('content_566a4baa6a72c')) {function content_566a4baa6a72c($_smarty_tpl) {?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
 <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"> 
 <head profile="http://gmpg.org/xfn/11"> 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />

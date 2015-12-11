@@ -19,6 +19,10 @@
     <script src="ModeloProjetos/js/html5shiv.js"></script>
     <script src="ModeloProjetos/js/respond.min.js"></script>
     <script src="ModeloProjetos/js/lte-ie7.js"></script>
+<link type="text/css" rel="stylesheet" id="arrowchat_css" media="all" href="/webeasywork/Arrowchat/external.php?type=css" charset="utf-8" />
+<script type="text/javascript" src="/webeasywork/Arrowchat/includes/js/jquery.js"></script>
+<script type="text/javascript" src="/webeasywork/Arrowchat/includes/js/jquery-ui.js"></script>
+    
 </head>
 <body>
 
@@ -63,7 +67,28 @@
 
           <center><font size="4"><a href="CadastroProjeto.php"><i class="fa fa-clipboard"></i> Clique aqui para cadastrar!</a></font></center>
 
+<script type="text/javascript" src="/webeasywork/arrowchat/external.php?type=djs" charset="utf-8"></script>
+<script type="text/javascript" src="/webeasywork/arrowchat/external.php?type=js" charset="utf-8"></script>
 
+
+
+
+<script language="javascript">
+
+function get_user_id() 
+
+$_COOKIE["coid"];
+{
+  $userid = NULL;
+  
+  if (!empty($_COOKIE['coid']))
+  {
+    $userid = $_COOKIE['coid'];
+  }
+
+  return $userid;
+}
+</script>
 
 
 

@@ -21,7 +21,7 @@
 	 * a new database for ArrowChat.
 	*/
 	define('DB_SERVER','localhost'); 
-	define('DB_USERNAME','dbew'); 
+	define('DB_USERNAME','root'); 
 	define('DB_PASSWORD',''); 
 	define('DB_NAME','dbew');	
 		
